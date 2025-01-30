@@ -19,6 +19,7 @@ Analyze Profit-Loss from the sales data on monthly basis to examine which month 
 Added filters for different quarters and for states to visualize all the above data for any particular quarter and for any particular state.
 
 ## Screenshots :
+![Dashboard](https://github.com/Bonny1309/Ecommerce-Sales-Analytics-Dashboard---POWER-BI/blob/main/Capture.PNG)
 
 
 
