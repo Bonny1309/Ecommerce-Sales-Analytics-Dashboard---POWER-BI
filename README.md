@@ -21,6 +21,11 @@ Added filters for different quarters and for states to visualize all the above d
 ## Screenshots :
 ![Dashboard](https://github.com/Bonny1309/Ecommerce-Sales-Analytics-Dashboard---POWER-BI/blob/main/Capture.PNG)
 
+## Tables :
+With the help of "Details" & "Orders" tables, datas are presented in the form of attractive visuals for solving business problems and 
+providing necessary insights for business driven descisions.
+Tables are already attached in this repository.
+
 
 
 
